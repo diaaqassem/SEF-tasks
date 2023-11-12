@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "fName": "diaa",
+    "lName": "qasssem",
+    "age": 20,
+    "city": "kafrEl-sheikh"
+  },
+  {
+    "id": 2,
+    "fName": "ahmed",
+    "lName": "mohamed",
+    "age": 29,
+    "city": "kafrEl-sheikh"
+  },
+  {
+    "id": 3,
+    "fName": "khaled",
+    "lName": "mohamed",
+    "age": 30,
+    "city": "cairo"
+  },
+  { "id": 5, "fName": "ismail", "lName": "ali", "age": 17, "city": "cairo" },
+  { "id": 7, "fName": "zaki", "lName": "mohamed", "age": 40, "city": "cairo" }
+]
