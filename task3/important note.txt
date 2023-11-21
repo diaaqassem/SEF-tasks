@@ -1,1 +1,7 @@
 install npm module ==> npm init -y
+
+TASK 3:
+
+Using geocode and weather API's, create an application that takes the country name from the user through the terminal and displays the latitude, longitude and current weather and temperature of that country in the console.
+
+Make sure to handle all kind of errors that might occur.
