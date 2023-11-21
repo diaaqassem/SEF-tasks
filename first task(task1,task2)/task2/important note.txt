@@ -1,1 +1,8 @@
 install npm module ==> npm init
+
+Task 2 : 
+1- to add 7 persons with ids from 1-7 
+(id - fname - lname - age - city ) 
+2- to delete id 4 - 6 
+3- to list fname & lname & city for all . 
+4- to read all data for only the 5th person .
