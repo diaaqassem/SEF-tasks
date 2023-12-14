@@ -1,0 +1,12 @@
+install npm ==> npm init -y
+
+
+TASK 4:
+
+Create an express app that serves 2 dynamic pages : Home and Check weather (include shared navbar in both)
+
+• The navbar include input that send country name on it
+
+• The home page should display a welcome message
+
+• The check weather page should display country name, latitude, longitude, current weather and temperature
