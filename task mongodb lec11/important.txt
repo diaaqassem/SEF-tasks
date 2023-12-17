@@ -1,0 +1,20 @@
+install npm ==> npm init -y
+
+
+TASK mongodb:
+
+insertOne 2
+
+insertMany 10 5 of them age 27y
+
+find match 27y
+
+limit 3 27y
+
+$set name for the first 4
+
+$inc age for the first 4 => 4
+
+updateMany inc 10
+
+deleteMany a 41 => dele
